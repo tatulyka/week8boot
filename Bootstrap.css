@@ -1,0 +1,56 @@
+.body {
+    background-color: rgba(230, 230, 230, 0.842);
+    padding: 20px;
+}
+.page {
+    border-radius: 15px;
+    background-color: #343a40; }
+.header {
+    align-items: center;
+    }   
+.navbar-dark  {
+    margin-left: 8%;
+}
+.nav {
+    margin-right: 5%;
+}
+
+.nav-link {
+    color: rgba(255, 255, 255, 0.637);
+}
+.nav-link:hover {
+    color: rgba(255, 255, 255);
+}
+.active {
+    color: rgba(255, 255, 255);
+}
+.main {
+    background-color: rgb(255, 255, 255);
+    padding-left: 12%;
+    padding-right: 12%;
+    
+}
+.warm {
+    background-color: rgba(230, 230, 230, 0.842);
+    margin-top: 22px;
+    margin-bottom: 22px;
+    border-radius: 3px;
+    padding-top: 50px;
+        }
+.button-main {
+    margin-bottom: 50px;
+    }
+
+.cards {
+    background-color: rgb(255, 255, 255);
+    padding-bottom: 22px;
+    padding-left: 11%;
+    padding-right: 11%;
+    
+}
+.footer {
+    color: white;
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 2%;
+}
